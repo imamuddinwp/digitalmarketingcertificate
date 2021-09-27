@@ -23,22 +23,22 @@ Verify the authenticity of this certificate at:https://static.semrush.com/academ
 <a href="https://github.com/imamuddinwp/digitalmarketingcertificate/blob/main/SEMrush-Academy-Certificate-imamuddinwp-.png" target="_blank"> <img alt="digital-marketing-certificate-imamuddinwp" src="https://github.com/imamuddinwp/digitalmarketingcertificate/blob/main/SEMrush-Academy-Certificate-imamuddinwp-.png"></a>
 
 <hr>
-<a href="https://skillshop.exceedlms.com/student/award/73027196" target="_blank"> <img src="https://github.com/imamuddinwp/digitalmarketingcertificate/blob/main/google-analytics-academy-certificate-imamuddinwp.jpg"></a>
+<a href="https://skillshop.exceedlms.com/student/award/73027196" target="_blank"> <img alt="google-analytics-academy-certificate-imamuddinwp" src="https://github.com/imamuddinwp/digitalmarketingcertificate/blob/main/google-analytics-academy-certificate-imamuddinwp.jpg"></a>
 
 
 <hr>
-<a href="https://skillshop.exceedlms.com/profiles/ff218c7057e24d8ca94da86260f68e33" target="_blank"> <img src="https://github.com/imamuddinwp/digitalmarketingcertificate/blob/main/distance-learning-for-educators-google-imamuddinwp.png"></a>
+<a href="https://skillshop.exceedlms.com/profiles/ff218c7057e24d8ca94da86260f68e33" target="_blank"> <img alt="distance-learning-for-educators-google-imamuddinwp" src="https://github.com/imamuddinwp/digitalmarketingcertificate/blob/main/distance-learning-for-educators-google-imamuddinwp.png"></a>
 
 <hr>
-<a href="https://skillshop.exceedlms.com/student/path/142277-google-my-business" target="_blank"> <img src="https://github.com/imamuddinwp/digitalmarketingcertificate/blob/main/google-my-business-gmb-imamuddin-imamuddinwp.jpg"></a>
+<a href="https://skillshop.exceedlms.com/student/path/142277-google-my-business" target="_blank"> <img alt="google-my-business-gmb-imamuddin-imamuddinwp" src="https://github.com/imamuddinwp/digitalmarketingcertificate/blob/main/google-my-business-gmb-imamuddin-imamuddinwp.jpg"></a>
 <hr>
 
 
-<a href="https://skillshop.exceedlms.com/student/path/142277-google-my-business" target="_blank"> <img src="https://github.com/imamuddinwp/digitalmarketingcertificate/blob/main/google-ads-display-certification-google-imamuddin-imamuddinwp.jpg"></a>
+<a href="https://skillshop.exceedlms.com/student/path/142277-google-my-business" target="_blank"> <img alt="google-ads-display-certification-google-imamuddin-imamuddinwp" src="https://github.com/imamuddinwp/digitalmarketingcertificate/blob/main/google-ads-display-certification-google-imamuddin-imamuddinwp.jpg"></a>
 <hr>
 
-<a href="https://www.slideshare.net/MdImamUddin3/google-digitalgaragecertificateimamuddinwp" target="_blank"> <img src="https://github.com/imamuddinwp/digitalmarketingcertificate/blob/main/imam-uddin.png"></a>
+<a href="https://www.slideshare.net/MdImamUddin3/google-digitalgaragecertificateimamuddinwp" target="_blank"> <img alt="imam-uddin" src="https://github.com/imamuddinwp/digitalmarketingcertificate/blob/main/imam-uddin.png"></a>
 <hr>
-<a href="https://learndigital.withgoogle.com/digitalgarage" target="_blank"> <img src="https://github.com/imamuddinwp/digitalmarketingcertificate/blob/main/google-digital-garage-homepage-imamuddinwp.png"></a>
+<a href="https://learndigital.withgoogle.com/digitalgarage" target="_blank"> <img alt="google-digital-garage-homepage-imamuddinwp" src="https://github.com/imamuddinwp/digitalmarketingcertificate/blob/main/google-digital-garage-homepage-imamuddinwp.png"></a>
 <hr>
 <h3>Proudly powered by:<a href="https://imamuddinwp.github.io/iu/" target="_blank">  Imam Uddin</a></h3>
