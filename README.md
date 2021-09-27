@@ -19,6 +19,8 @@ Verify the authenticity of this certificate at:https://static.semrush.com/academ
 <hr>
 Certificate ID: <strong>#46a5bf4106c75d0</strong><br>
 Verify the authenticity of this certificate at:https://static.semrush.com/academy-prod/certificate/2946229/SEMrush-Academy-Certificate-46a5bf4106c75d03caaa13995154323120d03afc6a5a4cb2e8e73ec2b4959b0c.png
+<hr>
+<a href="https://github.com/imamuddinwp/digitalmarketingcertificate/blob/main/SEMrush-Academy-Certificate-imamuddinwp-.png" target="_blank"> <img src="https://github.com/imamuddinwp/digitalmarketingcertificate/blob/main/SEMrush-Academy-Certificate-imamuddinwp-.png"></a>
 
 <hr>
 <a href="https://skillshop.exceedlms.com/student/award/73027196" target="_blank"> <img src="https://github.com/imamuddinwp/digitalmarketingcertificate/blob/main/google-analytics-academy-certificate-imamuddinwp.jpg"></a>
