@@ -10,14 +10,14 @@ Verify the authenticity of this certificate at:https://learndigital.withgoogle.c
 <hr>
 <a href="https://static.semrush.com/academy-prod/certificate/2946229/SEMrush-Academy-Certificate-fee0921c7a1042bcffd100de246473266a3a679e595ffdc840efc107ff62a123.png" target="_blank"> <img src="https://github.com/imamuddinwp/digitalmarketingcertificate/blob/main/SEMrush-Academy-Certificate-imamuddinwp.png"></a>
 <hr>
-Certificate ID: <strong>ZWE 63R LDH</strong><br>
+Certificate ID: <strong>#fee0921c7a1042b</strong><br>
 Verify the authenticity of this certificate at:https://static.semrush.com/academy-prod/certificate/2946229/SEMrush-Academy-Certificate-fee0921c7a1042bcffd100de246473266a3a679e595ffdc840efc107ff62a123.png
 
 <h2><a href="https://www.semrush.com/academy/">Digital Marketing Certificate | SEMrush On-page and Technical SEO | SEMrush Academy </a></h2>
 <hr>
 <a href="https://static.semrush.com/academy-prod/certificate/2946229/SEMrush-Academy-Certificate-46a5bf4106c75d03caaa13995154323120d03afc6a5a4cb2e8e73ec2b4959b0c.png" target="_blank"> <img src="https://github.com/imamuddinwp/digitalmarketingcertificate/blob/main/SEMrush-Academy-Certificate-on-page-technical-seo-imamuddinwp.png"></a>
 <hr>
-Certificate ID: <strong>ZWE 63R LDH</strong><br>
+Certificate ID: <strong>#46a5bf4106c75d0</strong><br>
 Verify the authenticity of this certificate at:https://static.semrush.com/academy-prod/certificate/2946229/SEMrush-Academy-Certificate-46a5bf4106c75d03caaa13995154323120d03afc6a5a4cb2e8e73ec2b4959b0c.png
 
 <hr>
